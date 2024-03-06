@@ -1,5 +1,7 @@
 # Veles DB Migration
 
+![alt text](img/Veles.png)
+
 Use [Dockerfile](Dockerfile) for development `docker-compose` and [Dockerfile.prd](Dockerfile.prd) for release.
 
 ## Migratoins
